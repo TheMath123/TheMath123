@@ -10,7 +10,7 @@ I'm Matheus, I'm 23 years old and I've been studying programming for over 5 year
 ## Contact
 <contact>
 <a href="https://www.linkedin.com/in/matheus-p-agostinho/" target="_blank"><img alt="Linkedin" src="/images/linkedin.png" title="Linkedin"></a>
-<a href="mat.matheus_pa@hotmail.com" target="_blank"><img alt="Email" src="/images/email.png" title="Email"></a>
+<a href="mailto:mat.matheus_pa@hotmail.com" target="_blank"><img alt="Email" src="/images/email.png" title="Email"></a>
 </contact>
 
  ---
