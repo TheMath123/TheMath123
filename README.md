@@ -14,8 +14,8 @@ I'm Matheus, I'm 23 years old and I've been studying programming for over 5 year
 <h2> Contact </h2>
 <contact>
  
-[![Linkedint](/images/linkedin.png)](https://www.linkedin.com/in/matheus-p-agostinho/)
 
+<a href="" target="_blank"><img alt="Linkedin" src="/images/linkedin.png" title="Linkedin"></a>
  <p></p>
  <a href="mailto:mat.matheus_pa@hotmail.com" target="_blank"><img alt="Email" src="/images/email.png" title="Email"></a>
 </contact>
