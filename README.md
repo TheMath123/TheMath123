@@ -3,7 +3,6 @@ I'm Matheus, I'm 23 years old and I've been studying programming for over 5 year
 
 ## Main Languages
  - Javascript - Typescript
- - Java
 
 ## Main technology
  - React </li>
