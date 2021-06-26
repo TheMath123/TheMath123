@@ -1,19 +1,19 @@
 <h3> Hi there 👋 </h3>
-I'm Matheus, I'm 23 years old and I've been studying programming for over 5 years, currently my favorite stack is web and mobile applications, using html, css, and javascript.
+I'm Matheus, I've been involved with the technology area since I was a teenager and I love learning about this world, I've been programming for about 5 years. Currently my stack is web development.
 
-## :star: Main Languages
+## :wrench: Main Languages
  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - [Typescript](https://www.typescriptlang.org/)
 
  __I know a little__
    - [Java](https://www.java.com/pt-BR/)
    - [C/C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
-## :test_tube: Main technology
+## :hammer_and_wrench: Main technology
 :desktop_computer: __Frontend__
  - [React](https://pt-br.reactjs.org/)
  - [NextJS](https://nextjs.org/)
  
-:end: __Backend__
+:gear: __Backend__
  - [NodeJS](https://nodejs.org/en/)
  - [MongoDB](https://www.mongodb.com/)
 
