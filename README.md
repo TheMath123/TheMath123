@@ -13,7 +13,7 @@ I'm Matheus, I'm 23 years old and I've been studying programming for over 5 year
  - [React](https://pt-br.reactjs.org/)
  - [NextJS](https://nextjs.org/)
  
-:keyboard: __Backend__
+:end: __Backend__
  - [NodeJS](https://nodejs.org/en/)
  - [MongoDB](https://www.mongodb.com/)
 
