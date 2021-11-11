@@ -11,6 +11,8 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
 ## :hammer_and_wrench: Main technology
 :desktop_computer: __Frontend__
  - [React](https://pt-br.reactjs.org/)
+
+ __I know a little__
  - [NextJS](https://nextjs.org/)
  
 :gear: __Backend__
