@@ -34,7 +34,7 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
      <img src="https://github-readme-stats.vercel.app/api?username=themath123&theme=dark&show_icons=true">   
    </td>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact&exclude_repo=exerciciosemc&langs_count=10">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact&exclude_repo=exerciciosemc&langs_count=8">
    </td>
  </table>
 </center>
