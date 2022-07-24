@@ -3,6 +3,7 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
 
 ## :wrench: Main Languages
  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - [Typescript](https://www.typescriptlang.org/)
+ - [Dart](https://dart.dev/)
 
  __I know a little__
    - [Java](https://www.java.com/pt-BR/)
@@ -11,6 +12,7 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
 ## :hammer_and_wrench: Main technology
 :desktop_computer: __Frontend__
  - [React](https://pt-br.reactjs.org/)
+ - [Flutter](https://flutter.dev/)
 
  __I know a little__
  - [NextJS](https://nextjs.org/)
