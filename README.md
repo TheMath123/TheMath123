@@ -24,7 +24,7 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
 <h2> 	:mailbox_with_no_mail: Contact </h2>
 <contact>
  <a href="https://www.linkedin.com/in/matheus-p-agostinho/" target="_blank"><img alt="Linkedin" src="/images/linkedin.png" title="Linkedin"></a>
- <a href="mailto:mat.matheus_pa@hotmail.com" target="_blank"><img alt="Email" src="/images/email.png" title="Email"></a>
+ <a href="mailto:contato@matheuspa.me" target="_blank"><img alt="Email" src="/images/email.png" title="Email"></a>
 </contact>
 
 <p></p>
