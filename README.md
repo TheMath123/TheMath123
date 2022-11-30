@@ -3,23 +3,26 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
 
 ## :wrench: Main Languages
  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - [Typescript](https://www.typescriptlang.org/)
- - [Dart](https://dart.dev/)
 
  __I know a little__
-   - [Java](https://www.java.com/pt-BR/)
+   - [Dart](https://dart.dev)
+   - [Java](https://www.java.com)
    - [C/C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
 ## :hammer_and_wrench: Main technology
 :desktop_computer: __Frontend__
- - [React](https://pt-br.reactjs.org/)
- - [Flutter](https://flutter.dev/)
+ - [React](https://pt-br.reactjs.org)
+ - [Flutter](https://flutter.dev)
+ - [Vite](https://vitejs.dev)
 
  __I know a little__
- - [NextJS](https://nextjs.org/)
+ - [NextJS](https://nextjs.org)
  
 :gear: __Backend__
- - [NodeJS](https://nodejs.org/en/)
- - [MongoDB](https://www.mongodb.com/)
+ - [Adonis](https://adonisjs.com)
+ - [Express](https://expressjs.com)
+ - [NodeJS](https://nodejs.org)
+ - [MongoDB](https://www.mongodb.com)
 
 <h2> 	:mailbox_with_no_mail: Contact </h2>
 <contact>
