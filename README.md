@@ -1,15 +1,15 @@
-<h3> Hi there 👋 </h3>
+### Hi there 👋
 I'm Matheus, I've been involved with the technology area since I was a teenager and I love learning about this world, I've been programming for about 5 years. Currently my stack is web development.
 
 ## 🔧 Languages
  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - [Typescript](https://www.typescriptlang.org/)
 
- __I know a little__
+ 🪛 **I know a little**
    - [Dart](https://dart.dev)
    - [Java](https://www.java.com)
    - [C/C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
-## 🚀 Technologies
+## 💻 Technologies
 ### 🧰 Frameworks
  - [React](https://pt-br.reactjs.org)
  - [Flutter](https://flutter.dev)
@@ -24,6 +24,14 @@ I'm Matheus, I've been involved with the technology area since I was a teenager 
 ### 🎲 Databases
 - [MySQL](https://dev.mysql.com/)
 - [MongoDB](https://www.mongodb.com)
+
+## 🚀Devops
+- A bit of [Azure](https://azure.microsoft.com/)
+- A bit of [AWS](https://aws.amazon.com/)
+- [Computer network](https://en.wikipedia.org/wiki/Computer_network)
+- [Cloudflare](https://www.cloudflare.com/)
+- [Linux Server](https://www.redhat.com/en/topics/linux/linux-server)
+- [Hardware](https://en.wikipedia.org/wiki/Computer_hardware)
 
 ## 📧 Contact
 - [My Website](https://matheuspa.com)
