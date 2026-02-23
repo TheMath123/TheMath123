@@ -1,7 +1,15 @@
-### Hi there 👋
-I'm Matheus, I've been involved with the technology area since I was a teenager and I love learning about this world, I've been programming for about 5 years. Currently my stack is web development.
+## Hi, I'm Matheus!
 
-## 📧 Contact
-- [My Website](https://matheuspa.com)
-- [Linkedin](https://www.linkedin.com/in/matheus-p-agostinho/)
-- [contact@matheuspa.com](mailto:contact@matheuspa.com)
+**Software Developer** focused on solving problems and delivering value, regardless of the stack. While **TypeScript** is my primary tool today, I believe technology should serve the solution and the business.
+
+### 🔭 Currently
+* Working on private corporate projects.
+* Exploring technologies that optimize delivery and performance.
+
+### 📧 Contact
+* 🌐 [matheuspa.com](https://matheuspa.com)
+* 💼 [Linkedin](https://www.linkedin.com/in/matheus-p-agostinho/)
+* ✉️ [contact@matheuspa.com](mailto:contact@matheuspa.com)
+
+---
+> "Software is about solving problems, not just writing lines of code."
